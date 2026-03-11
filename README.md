@@ -45,7 +45,7 @@ The dataset contains sales performance information for multiple sales executives
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](https://github.com/RheaNaveen/Sales_Dashboard/blob/main/Sales_dashboard_pic.png)
 
 ---
 
