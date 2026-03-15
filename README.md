@@ -55,6 +55,12 @@ The goal of this project is to demonstrate how sales data can be analyzed and tr
 
 ---
 
+## Project Motivation
+
+I chose to build this Sales Performance Dashboard to strengthen my skills in data analysis and dashboard design using Microsoft Excel. Sales data is one of the most common types of business data, and analyzing it helps organizations understand performance, identify top contributors, and detect areas that require improvement.
+
+---
+
 ## Data Source
 
 The dataset used in this project is a sample sales dataset used for learning and dashboard development practice.
